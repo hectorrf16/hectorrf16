@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-<img align="left" height="150" src="https://media1.tenor.com/m/NVwxxoyoyGgAAAAd/racoon-pedro.gif"/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" height="150" src="https://media1.tenor.com/m/NVwxxoyoyGgAAAAd/racoon-pedro.gif"/><br/><br/><br/><br/><br/><br/><br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorrodriguezfuste) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hectorrf16) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hectorrf16) 
 [![](https://visitcount.itsvg.in/api?id=hectorrf16&icon=0&color=0)](https://visitcount.itsvg.in)
 
