@@ -2,10 +2,10 @@
 ## 🌐 Socials
 <img align="left" width="150" src="https://media1.tenor.com/m/NVwxxoyoyGgAAAAd/racoon-pedro.gif"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorrodriguezfuste)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/hectorrf16)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/hectorrf16)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorrodriguezfuste)<br/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector@herodaru.es)<br/>
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hectorrf16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector@herodaru.es)
 
 <br clear="left"/>
 
@@ -91,10 +91,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=hectorrf16&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hectorrf16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
----
